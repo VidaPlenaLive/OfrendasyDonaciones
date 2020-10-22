@@ -49,7 +49,7 @@ header {
 }
 
 .tabla {
-	background: rgba(0,0,0,.7);
+	background: rgba(48, 48, 48, 0.829);
 	width: 250px;
 	color: #fff;
 	text-align: center;
@@ -65,7 +65,7 @@ header {
 }
 
 .titulo {
-	background: #aaa9a9;
+	background: #0084ff;
 	padding: 15px 0;
 }
 
@@ -108,7 +108,7 @@ header {
 .enlace a {
 	display: inline-block;
 	text-decoration: none;
-	background: #00CD2A;
+	background: #0084ff;
 	color: #fff;
 	margin: 40px 0;
 	padding: 10px 40px;
@@ -120,20 +120,20 @@ header {
 
 .tabla:nth-child(2) .titulo,
 .tabla:nth-child(2) .enlace a {
-	background: #aaa9a9;
+	background: #0084ff;
 }
 
 .tabla:nth-child(2) .precio h3 {
-	color: #aaa9a9;
+	color: #0084ff;
 }
 
 .tabla:nth-child(3) .titulo,
 .tabla:nth-child(3) .enlace a {
-	background: #aaa9a9;
+	background: #0084ff;
 }
 
 .tabla:nth-child(3) .precio h3 {
-	color: #aaa9a9;
+	color: #0084ff;
 }
 
 @media screen and (max-width: 750px) {
